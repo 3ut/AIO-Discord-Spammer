@@ -58,8 +58,8 @@
 | ---  | ---  | ---         |
 | `[mtag]` | Massmention | Append random users to the message, usage (hi [mtag1])
 | `[rnd]`  | Random Characters | Append random characters to the message, usage (hi [rnd])
-| `[num]`  | Random Characters | Append random numbers to the message, usage (hi [num])
-| `[emoji]`| Random Characters | Append random emojis to the message, usage (hi [num])
+| `[num]`  | Random Numbers | Append random numbers to the message, usage (hi [num])
+| `[emoji]`| Random Emojis | Append random emojis to the message, usage (hi [num])
 
 
 ---------------------------------------
