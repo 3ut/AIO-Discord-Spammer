@@ -45,7 +45,7 @@
 * Hypesquad Changer
 * Bio Changer
 * Vocal Joiner
-* Vocal lEaver
+* Vocal Leaver
 * Token Checker
 * DM Spammer
 * MassDM
